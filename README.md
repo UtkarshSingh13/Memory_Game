@@ -1,4 +1,4 @@
-# My Memory
+# Memory Game
 
 ![](https://github.com/rpandey1234/MyMemory/blob/main/assets/ConsumeFlow.gif)
 
