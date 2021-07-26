@@ -2,7 +2,7 @@
 
 ![](https://github.com/rpandey1234/MyMemory/blob/main/assets/ConsumeFlow.gif)
 
-**Author:** [Rahul Pandey](https://www.youtube.com/rpandey1234)
+**Author:** [Utkarsh Singh]
 
 <a href='https://play.google.com/store/apps/details?id=com.rkpandey.mymemory'><img width="200px" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
 
@@ -12,7 +12,7 @@ An open-source Android memory game. Play with the default icons, or play a custo
 
 Here are some sample games you can try out:
 - `corgi`
-- `rahul`
+- `Utkarsh`
 - `bitmoji`
 
 <p float="middle">
@@ -26,7 +26,7 @@ Open source libraries used:
 
 # License
 
-    Copyright 2020 Rahul Pandey
+    Copyright 2021 Utkarsh Singh
 
     Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
