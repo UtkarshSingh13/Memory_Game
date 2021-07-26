@@ -2,7 +2,7 @@
 
 ![](https://github.com/rpandey1234/MyMemory/blob/main/assets/ConsumeFlow.gif)
 
-**Author:** [Utkarsh Singh]
+**Author:** [Utkarsh Singh && Neelesh Sahoo]
 
 <a href='https://play.google.com/store/apps/details?id=com.rkpandey.mymemory'><img width="200px" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
 
@@ -23,7 +23,7 @@ Open source libraries used:
 
 # License
 
-    Copyright 2021 Utkarsh Singh
+    Copyright 2021 Utkarsh Singh and Neelesh Sahoo
 
     Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
