@@ -1,6 +1,6 @@
 # Memory Game
 
-![](https://github.com/rpandey1234/MyMemory/blob/main/assets/ConsumeFlow.gif)
+![](https://github.com/UtkarshSingh13/Memory_Game/blob/main/assets/ConsumeFlow.gif)
 
 **Author:** [Utkarsh Singh && Neelesh Sahoo]
 
@@ -12,8 +12,8 @@ An open-source Android memory game. Play with the default icons, or play a custo
 
 
 <p float="middle">
-    <img width="250px" src='https://github.com/rpandey1234/MyMemory/blob/main/assets/customWinConfetti.png' />
-    <img width="250px" src='https://github.com/rpandey1234/MyMemory/blob/main/assets/creationFlow.png' />
+    <img width="250px" src='https://github.com/UtkarshSingh13/Memory_Game/blob/main/assets/customWinConfetti.png' />
+    <img width="250px" src='https://github.com/UtkarshSingh13/Memory_Game/blob/main/assets/creationFlow.png' />
 </p>
 
 Open source libraries used:
